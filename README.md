@@ -1,0 +1,4 @@
+# Banka-uygulamam
+Java ile bir banka uygulaması
+
+PARA ÇEKME,YATIRMA, RASTGELE İD ÜRETİP KULLANICILARA ATAMAK GİBİ ÇEŞİTLİ FONKSİYONLARI BULUNUYOR.
